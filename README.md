@@ -9,14 +9,15 @@
 
 ## 🚀 Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Project developed with the technologies below:
+(Esse projeto foi desenvolvido com as seguintes tecnologias:)
 
 - HTML
 - CSS 
 
 ## 💻 Projeto
 
-Survey form to collect data from your users.
+CSS and the Box Model to create your own Rothko-style rectangular art pieces..
 
 ---
 
