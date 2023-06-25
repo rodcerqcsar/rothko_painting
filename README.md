@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img alt="Preview App" src=".github/rothko.png" width="100%">
+  <img alt="Preview App" src="rothko.png" width="100%">
   </p>
 
 ## 🚀 Tecnologias
