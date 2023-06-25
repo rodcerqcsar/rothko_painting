@@ -10,6 +10,7 @@
 ## 🚀 Tecnologias
 
 Project developed with the technologies below:
+<br>
 (Esse projeto foi desenvolvido com as seguintes tecnologias:)
 
 - HTML
