@@ -17,7 +17,7 @@ Project developed with the technologies below:
 
 ## 💻 Projeto
 
-CSS and the Box Model to create your own Rothko-style rectangular art pieces..
+CSS and Box Model to create our own Rothko-style rectangular art pieces..
 
 ---
 
