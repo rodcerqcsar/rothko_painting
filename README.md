@@ -7,11 +7,9 @@
   <img alt="Preview App" src="rothko.png" width="100%">
   </p>
 
-## 🚀 Tecnologias
+## 🚀 Technologies
 
-Project developed with the technologies below:
-<br>
-(Esse projeto foi desenvolvido com as seguintes tecnologias:)
+This project was developed with:
 
 - HTML
 - CSS 
@@ -24,5 +22,5 @@ CSS and Box Model to create our own Rothko-style rectangular art pieces..
 
 No Copyright :wave: by https://www.freecodecamp.org
 
-- [Acesse o projeto finalizado, online](https://rodrigocccesar.github.io/rothko_painting)
+- [Access the finished project, online](https://rodrigocccesar.github.io/rothko_painting)
 
