@@ -14,7 +14,7 @@ This project was developed with:
 - HTML
 - CSS 
 
-## 💻 Projeto
+## 💻 Project
 
 CSS and Box Model to create our own Rothko-style rectangular art pieces..
 
